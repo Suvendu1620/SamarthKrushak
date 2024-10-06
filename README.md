@@ -1,5 +1,5 @@
 # SamarthKrushak
-An innovative agricultural solution involving Precision Agriculture 
+An innovative agricultural solution involving Precision Agriculture ...
 Idea/Problem Statement Summary
 India's agricultural sector, which employs over 50% of the workforce and contributes 15% to the GDP, is facing a crisis marked by water scarcity, soil degradation, and inefficient traditional farming practices, resulting in significant food security and sustainability challenges. The sector's growth has declined sharply to 1.4% in FY24, exacerbated by severe water wastage, accelerated soil erosion, and low rural incomes, disproportionately affecting farmers who lack resources and knowledge to adopt sustainable practices. 
 Our solution Project Samarth Krushak will combat the above problem by the following practices:-
